@@ -109,14 +109,6 @@ but uses Convolutional Neural Networks as a back-bone to achieve desired results
     - In the cell blocks of driver code that executes the whole mechanisn of Neural Style Transfer, for different values of *Alpha* and *beta* along variations in *learning rates*, you can see same results with different amounts or proportions of styles and contents injected into the results.
 
 
-##### Lastly, an appealing convergence
-
-
-
-https://user-images.githubusercontent.com/93501171/225492691-109bb503-8cba-4305-b33e-27bafa560831.mp4
-
-
-
 
 
   
